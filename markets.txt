@@ -1,0 +1,7 @@
+consumer
+developer
+enterprise
+healthcare
+education
+transport
+realty
